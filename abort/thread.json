@@ -3,13 +3,12 @@
   "name": "abort",
   "type": "decision",
   "decidedDate": "1970-04-14",
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "state": "done",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
+  "representedBy": "../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "context": "Oxygen tank two failed. Landing is no longer possible.",
   "chose": "Abort the landing. Use the LM as a lifeboat. Return to Earth.",
   "consequences": "The landing-mission plan is voided. Crew return becomes the work.",
-  "representedBy": "../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
-  "sourceVerified": false,
   "props": [
     {
       "name": "page",
@@ -21,5 +20,6 @@
       "value": "5",
       "class": "pdf"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

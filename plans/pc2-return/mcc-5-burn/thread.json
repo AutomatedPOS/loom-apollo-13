@@ -1,5 +1,13 @@
 {
   "guid": "46993787-e767-4da2-a7db-b8109a1b2d1f",
+  "name": "plans-pc2-return-mcc-5-burn",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,13 +19,5 @@
       "value": "105:18:32"
     }
   ],
-  "plannedStart": "1970-04-16",
-  "plannedEnd": "1970-04-16",
-  "actualStart": "1970-04-16",
-  "actualEnd": "1970-04-16",
-  "state": "done",
-  "name": "plans-pc2-return-mcc-5-burn",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

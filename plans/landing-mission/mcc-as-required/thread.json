@@ -1,5 +1,11 @@
 {
   "guid": "a60697e1-395a-40c2-b397-e726ed43b3f5",
+  "name": "plans-landing-mission-mcc-as-required",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-15",
+  "state": "abandoned",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
   "props": [
     {
@@ -7,11 +13,5 @@
       "value": "16"
     }
   ],
-  "plannedStart": "1970-04-13",
-  "plannedEnd": "1970-04-15",
-  "state": "abandoned",
-  "name": "plans-landing-mission-mcc-as-required",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+  "sourceVerified": false
 }

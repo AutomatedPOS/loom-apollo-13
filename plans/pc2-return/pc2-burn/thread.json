@@ -1,5 +1,13 @@
 {
   "guid": "85285c17-6703-48c1-b28f-854ea367bca1",
+  "name": "plans-pc2-return-pc2-burn",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,13 +19,5 @@
       "value": "79:27:39"
     }
   ],
-  "plannedStart": "1970-04-15",
-  "plannedEnd": "1970-04-15",
-  "actualStart": "1970-04-15",
-  "actualEnd": "1970-04-15",
-  "state": "done",
-  "name": "plans-pc2-return-pc2-burn",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

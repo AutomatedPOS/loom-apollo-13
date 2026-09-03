@@ -7,7 +7,6 @@
   "state": "superseded",
   "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
-  "sourceVerified": false,
   "body": "Slice: representedBy is the postlaunch MOR because the Final Flight Plan is not copied yet.",
   "props": [
     {
@@ -16,5 +15,6 @@
       "class": "pdf",
       "remarks": "ghost-table-2"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

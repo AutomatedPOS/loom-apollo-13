@@ -1,5 +1,13 @@
 {
   "guid": "83299d9e-a1d8-42b6-b96c-8677c5185659",
+  "name": "plans-free-return-lm-internal-power",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,13 +19,5 @@
       "value": "57:44:00"
     }
   ],
-  "plannedStart": "1970-04-14",
-  "plannedEnd": "1970-04-14",
-  "actualStart": "1970-04-14",
-  "actualEnd": "1970-04-14",
-  "state": "done",
-  "name": "plans-free-return-lm-internal-power",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc"
+  "sourceVerified": false
 }

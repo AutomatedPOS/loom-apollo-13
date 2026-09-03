@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "AOT STAR CHECK PHOTO UPDATE (TARGETS OF OPP. FOR SM JETTISON)",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "10"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

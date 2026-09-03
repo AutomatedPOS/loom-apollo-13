@@ -1,6 +1,9 @@
 {
   "guid": "b44e8030-7ec9-4392-9df5-f28bdd8cc29e",
+  "name": "issues-she-heat-leak",
+  "type": "issue",
   "actualStart": "1970-03-31",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -8,8 +11,5 @@
       "value": "19"
     }
   ],
-  "name": "issues-she-heat-leak",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

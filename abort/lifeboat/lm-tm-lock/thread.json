@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
-  "sourceVerified": false,
   "props": [
     {
       "name": "get-actual",
@@ -19,5 +18,6 @@
       "name": "alsoScheduledBy",
       "value": "48c77487-ddfc-4221-af1a-02e7047b60cc"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

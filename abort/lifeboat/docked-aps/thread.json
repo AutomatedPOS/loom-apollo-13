@@ -1,7 +1,10 @@
 {
   "guid": "306add79-fdce-4262-b002-00d2883ec98d",
+  "name": "abort-lifeboat-docked-aps",
+  "type": "workItem",
   "plannedStart": "1970-03-31",
   "plannedEnd": "1970-03-31",
+  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
   "props": [
     {
@@ -23,8 +26,5 @@
       "class": "printed"
     }
   ],
-  "name": "abort-lifeboat-docked-aps",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e"
+  "sourceVerified": false
 }

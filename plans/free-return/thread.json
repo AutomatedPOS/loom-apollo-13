@@ -9,7 +9,6 @@
   "supersedes": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "supersededBecause": "Nominal mission aborted. Remaining maneuvers planned in real time for return to Earth.",
   "representedBy": "../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "props": [
     {
       "name": "get-splash-petrone",
@@ -19,5 +18,6 @@
       "name": "get-splash-control",
       "value": "155:00"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

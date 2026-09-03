@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "AGS ACTIVATION & BODY ALIGN 140:00 MCC UPDATE: CM COARSE ALIGN 3's",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "15"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

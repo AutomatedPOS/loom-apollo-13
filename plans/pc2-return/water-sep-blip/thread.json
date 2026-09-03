@@ -1,5 +1,9 @@
 {
   "guid": "791054ba-a54a-4c3e-b557-5a5a07fb3bc1",
+  "name": "plans-pc2-return-water-sep-blip",
+  "type": "issue",
+  "actualStart": "1970-04-16",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -11,9 +15,5 @@
       "value": "118:35:00"
     }
   ],
-  "actualStart": "1970-04-16",
-  "name": "plans-pc2-return-water-sep-blip",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

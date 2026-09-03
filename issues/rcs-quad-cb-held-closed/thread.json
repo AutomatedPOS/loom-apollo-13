@@ -1,6 +1,9 @@
 {
   "guid": "757b2bea-038a-47c4-a44a-2750cde8aeb6",
+  "name": "issues-rcs-quad-cb-held-closed",
+  "type": "issue",
   "actualStart": "1970-03-31",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -8,8 +11,5 @@
       "value": "19"
     }
   ],
-  "name": "issues-rcs-quad-cb-held-closed",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

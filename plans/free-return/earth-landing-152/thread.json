@@ -1,5 +1,11 @@
 {
   "guid": "5ba3d568-7898-4c20-8747-dbb159db2b23",
+  "name": "plans-free-return-earth-landing-152",
+  "type": "workItem",
+  "plannedStart": "1970-04-18",
+  "plannedEnd": "1970-04-18",
+  "state": "abandoned",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,11 +17,5 @@
       "value": "152:00:00"
     }
   ],
-  "plannedStart": "1970-04-18",
-  "plannedEnd": "1970-04-18",
-  "state": "abandoned",
-  "name": "plans-free-return-earth-landing-152",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc"
+  "sourceVerified": false
 }

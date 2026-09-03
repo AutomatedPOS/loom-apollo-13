@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
-  "sourceVerified": false,
   "body": "THE S-IVB 80° YAW MNVR MNVR TO ACQUIRE S-IVB IN HATCH ION +3 MIN. THE MNVR",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "11"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

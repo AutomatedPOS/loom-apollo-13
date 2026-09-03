@@ -1,5 +1,9 @@
 {
   "guid": "206eed2a-3362-403e-ac9e-6a8563621720",
+  "name": "plans-free-return-csm-anomaly-main-bus-b-dead",
+  "type": "issue",
+  "actualStart": "1970-04-14",
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e",
   "representedBy": "../../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,9 +15,5 @@
       "value": "56:36:00"
     }
   ],
-  "actualStart": "1970-04-14",
-  "name": "plans-free-return-csm-anomaly-main-bus-b-dead",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e"
+  "sourceVerified": false
 }

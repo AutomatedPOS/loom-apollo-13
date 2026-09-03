@@ -1,5 +1,9 @@
 {
   "guid": "da53fb52-c868-4374-a25b-3627ab397e31",
+  "name": "plans-free-return-csm-anomaly-cmc-restart",
+  "type": "issue",
+  "actualStart": "1970-04-14",
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e",
   "representedBy": "../../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,9 +15,5 @@
       "value": "55:53:00"
     }
   ],
-  "actualStart": "1970-04-14",
-  "name": "plans-free-return-csm-anomaly-cmc-restart",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e"
+  "sourceVerified": false
 }

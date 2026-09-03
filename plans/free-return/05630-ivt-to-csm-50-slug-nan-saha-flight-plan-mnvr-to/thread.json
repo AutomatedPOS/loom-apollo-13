@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "IVT TO CSM :50 SLUG. NaN SAHA FLIGHT PLAN] MNVR TO R 60, P 90, Y 0",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "4"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

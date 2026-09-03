@@ -1,5 +1,10 @@
 {
   "guid": "0f9c0c93-5856-45ce-9443-e56628a5d60c",
+  "name": "plans-landing-mission-mcc-3",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -15,10 +20,5 @@
       "value": "np"
     }
   ],
-  "plannedStart": "1970-04-14",
-  "plannedEnd": "1970-04-14",
-  "name": "plans-landing-mission-mcc-3",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+  "sourceVerified": false
 }

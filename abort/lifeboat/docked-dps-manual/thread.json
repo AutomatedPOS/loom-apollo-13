@@ -6,7 +6,6 @@
   "plannedEnd": "1970-03-31",
   "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
-  "sourceVerified": false,
   "body": "TOC doc p.31. Procedure starts PDF page 45. Unused unless PGNS DPS failed.",
   "props": [
     {
@@ -27,5 +26,6 @@
       "name": "performed",
       "value": "np"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "MCC UPLINK: MCC-7 TARGET LOAD 142:00 MNVR TO ENTRY ATT: RO, P 91.3, YO",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "15"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

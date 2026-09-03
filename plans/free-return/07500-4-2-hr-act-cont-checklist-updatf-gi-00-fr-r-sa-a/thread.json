@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "-4 ° 2 HR ACT. CONT. CHECKLIST UPDATF gi:00-] $ —— fr r sa ae PGNCS PTC",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "10"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

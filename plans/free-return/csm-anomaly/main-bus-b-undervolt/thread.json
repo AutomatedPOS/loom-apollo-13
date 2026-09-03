@@ -1,5 +1,9 @@
 {
   "guid": "ec561620-b4b0-448d-8603-e141f633648e",
+  "name": "plans-free-return-csm-anomaly-main-bus-b-undervolt",
+  "type": "issue",
+  "actualStart": "1970-04-14",
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e",
   "representedBy": "../../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -32,13 +36,9 @@
     {
       "name": "page",
       "value": "4",
-      "class": "pdf",
-      "ns": "https://example.invalid/loom/flight-plan-54-splash"
+      "ns": "https://example.invalid/loom/flight-plan-54-splash",
+      "class": "pdf"
     }
   ],
-  "actualStart": "1970-04-14",
-  "name": "plans-free-return-csm-anomaly-main-bus-b-undervolt",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e"
+  "sourceVerified": false
 }

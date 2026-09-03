@@ -6,7 +6,6 @@
   "plannedEnd": "1970-04-12",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
-  "sourceVerified": false,
   "props": [
     {
       "name": "performed",
@@ -16,5 +15,6 @@
       "name": "get-planned",
       "value": "11:41:00"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

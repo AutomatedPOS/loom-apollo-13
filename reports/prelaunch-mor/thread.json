@@ -1,6 +1,9 @@
 {
   "guid": "604335f6-1c23-4d6e-96c4-a655efc985fe",
+  "name": "reports-prelaunch-mor",
+  "type": "report",
   "actualStart": "1970-03-31",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
   "props": [
     {
@@ -8,8 +11,5 @@
       "value": "1"
     }
   ],
-  "name": "reports-prelaunch-mor",
-  "type": "report",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

@@ -5,12 +5,12 @@
   "actualStart": "1970-04-14",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
-  "sourceVerified": false,
   "body": "CSM cryo / electrical failure grouping. GET 55:50–57:57.",
   "props": [
     {
       "name": "get",
       "value": "55:50:00"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

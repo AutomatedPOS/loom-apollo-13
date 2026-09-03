@@ -1,5 +1,10 @@
 {
   "guid": "4fdba91e-b5fb-4820-bd1e-cc3dc9cd6da6",
+  "name": "plans-pc2-return-she-vent-contingency",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-17",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -11,10 +16,5 @@
       "value": "np"
     }
   ],
-  "plannedStart": "1970-04-16",
-  "plannedEnd": "1970-04-17",
-  "name": "plans-pc2-return-she-vent-contingency",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

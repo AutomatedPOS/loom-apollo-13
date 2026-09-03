@@ -1,5 +1,13 @@
 {
   "guid": "45281d72-e730-40ea-9804-a78068a3392b",
+  "name": "plans-landing-mission-s-ivb-aps-lunar-impact",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,13 +19,5 @@
       "value": "05:59:59"
     }
   ],
-  "plannedStart": "1970-04-12",
-  "plannedEnd": "1970-04-12",
-  "actualStart": "1970-04-12",
-  "actualEnd": "1970-04-12",
-  "state": "done",
-  "name": "plans-landing-mission-s-ivb-aps-lunar-impact",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+  "sourceVerified": false
 }

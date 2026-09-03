@@ -1,5 +1,13 @@
 {
   "guid": "c68f5fb8-b132-440b-9822-89cb01c0d418",
+  "name": "plans-landing-mission-s-ic-outboard-cutoff",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,13 +19,5 @@
       "value": "00:02:43.6"
     }
   ],
-  "plannedStart": "1970-04-11",
-  "plannedEnd": "1970-04-11",
-  "actualStart": "1970-04-11",
-  "actualEnd": "1970-04-11",
-  "state": "done",
-  "name": "plans-landing-mission-s-ic-outboard-cutoff",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+  "sourceVerified": false
 }

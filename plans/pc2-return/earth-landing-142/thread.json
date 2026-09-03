@@ -1,5 +1,13 @@
 {
   "guid": "c4316fe1-c6f5-4751-897e-2e29bc1c3403",
+  "name": "plans-pc2-return-earth-landing-142",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -16,13 +24,5 @@
       "remarks": "54-to-splash OCR page 15. Table 2 remains 142:54:41."
     }
   ],
-  "plannedStart": "1970-04-17",
-  "plannedEnd": "1970-04-17",
-  "actualStart": "1970-04-17",
-  "actualEnd": "1970-04-17",
-  "state": "done",
-  "name": "plans-pc2-return-earth-landing-142",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

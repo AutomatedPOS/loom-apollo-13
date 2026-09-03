@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
-  "sourceVerified": false,
   "body": "5 GDC ALIGN i | Lt * MCC-1 BURN STATUS REPORT I 5 I REPORTED TO MSFN",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "20"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

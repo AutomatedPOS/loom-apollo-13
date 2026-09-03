@@ -1,5 +1,11 @@
 {
   "guid": "7e0ce9a8-57c0-49ac-b770-f4f84894dea6",
+  "name": "plans-landing-mission-docking",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "state": "abandoned",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
   "props": [
     {
@@ -11,11 +17,5 @@
       "value": "140:45:00"
     }
   ],
-  "plannedStart": "1970-04-17",
-  "plannedEnd": "1970-04-17",
-  "state": "abandoned",
-  "name": "plans-landing-mission-docking",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+  "sourceVerified": false
 }

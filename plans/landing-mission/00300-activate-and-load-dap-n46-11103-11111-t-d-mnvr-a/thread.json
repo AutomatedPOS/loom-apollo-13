@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
-  "sourceVerified": false,
   "body": "ACTIVATE AND LOAD DAP N46 (11103, 11111) T&D MNVR ae 1 RED LOAD DOCKING GIMBAL A",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "8"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

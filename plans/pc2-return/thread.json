@@ -1,15 +1,15 @@
 {
   "guid": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "name": "plans-pc2-return",
+  "type": "plan",
   "plannedStart": "1970-04-15",
   "plannedEnd": "1970-04-17",
   "actualStart": "1970-04-15",
   "actualEnd": "1970-04-17",
   "state": "done",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "supersedes": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "supersededBecause": "PC+2 burn chosen. Return GET 142 Pacific instead of 152/155 Indian Ocean.",
   "representedBy": "../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "name": "plans-pc2-return",
-  "type": "plan",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

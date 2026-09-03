@@ -1,5 +1,10 @@
 {
   "guid": "7c52e8cd-22aa-4b98-9a92-d996358b5dfe",
+  "name": "plans-free-return-mcc-5-free-return",
+  "type": "workItem",
+  "plannedStart": "1970-04-18",
+  "plannedEnd": "1970-04-18",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -11,10 +16,5 @@
       "value": "np"
     }
   ],
-  "plannedStart": "1970-04-18",
-  "plannedEnd": "1970-04-18",
-  "name": "plans-free-return-mcc-5-free-return",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc"
+  "sourceVerified": false
 }

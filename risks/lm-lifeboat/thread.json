@@ -4,8 +4,8 @@
   "type": "risk",
   "actualStart": "1970-03-31",
   "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
-  "mitigatedBy": "e76f6741-020c-4d98-a248-ec213537eb51",
   "realizedAs": "ee592bff-b8d6-4908-8559-1326b26d4b0b",
-  "sourceVerified": false,
-  "body": "LM used as CSM lifeboat. Checklist dated 31 Mar 1970."
+  "mitigatedBy": "e76f6741-020c-4d98-a248-ec213537eb51",
+  "body": "LM used as CSM lifeboat. Checklist dated 31 Mar 1970.",
+  "sourceVerified": false
 }

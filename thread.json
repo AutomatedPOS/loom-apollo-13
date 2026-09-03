@@ -8,11 +8,11 @@
   "actualEnd": "1970-04-17",
   "state": "done",
   "isPartOf": "",
-  "sourceVerified": false,
   "props": [
     {
       "name": "range-zero-utc",
       "value": "1970-04-11T19:13:00Z"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

@@ -1,5 +1,9 @@
 {
   "guid": "ff0eb346-208e-4f96-a8ef-eedf0f33ac51",
+  "name": "plans-pc2-return-she-burst",
+  "type": "issue",
+  "actualStart": "1970-04-16",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -11,9 +15,5 @@
       "value": "108:54:00"
     }
   ],
-  "actualStart": "1970-04-16",
-  "name": "plans-pc2-return-she-burst",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

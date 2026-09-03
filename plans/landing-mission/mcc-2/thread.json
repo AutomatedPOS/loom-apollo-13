@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
-  "sourceVerified": false,
   "props": [
     {
       "name": "get-actual",
@@ -19,5 +18,6 @@
       "name": "get-planned",
       "value": "30:41:00"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

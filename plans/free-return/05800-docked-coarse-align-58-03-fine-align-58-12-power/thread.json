@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "DOCKED COARSE ALIGN (58:03) FINE ALIGN (58:12) POWER DOWN CMC & IMU (CSM)",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "7"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

@@ -1,6 +1,9 @@
 {
   "guid": "0028862d-0f9f-4640-b50f-8e7711610038",
+  "name": "reports-flight-ops-mor",
+  "type": "report",
   "actualStart": "1970-04-28",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -8,8 +11,5 @@
       "value": "1"
     }
   ],
-  "name": "reports-flight-ops-mor",
-  "type": "report",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

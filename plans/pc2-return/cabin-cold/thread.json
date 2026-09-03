@@ -1,5 +1,9 @@
 {
   "guid": "bf7a7fb7-d0c2-4c9b-beab-5497757e08ee",
+  "name": "plans-pc2-return-cabin-cold",
+  "type": "issue",
+  "actualStart": "1970-04-15",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
   "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
   "props": [
     {
@@ -7,9 +11,5 @@
       "value": "43"
     }
   ],
-  "actualStart": "1970-04-15",
-  "name": "plans-pc2-return-cabin-cold",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+  "sourceVerified": false
 }

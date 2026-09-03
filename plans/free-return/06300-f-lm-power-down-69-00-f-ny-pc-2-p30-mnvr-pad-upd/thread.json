@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
   "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
-  "sourceVerified": false,
   "body": "F LM POWER DOWN 69:00 F ny | PC#2 P30 MNVR PAD UPDATE (63:05) 3 CREW STATUS",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "9"
     }
-  ]
+  ],
+  "sourceVerified": false
 }

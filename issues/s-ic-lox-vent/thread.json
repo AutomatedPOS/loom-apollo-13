@@ -1,6 +1,9 @@
 {
   "guid": "11cf21f7-c9e4-4eb3-b5e8-1d1b9e33bac3",
+  "name": "issues-s-ic-lox-vent",
+  "type": "issue",
   "actualStart": "1970-04-11",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
   "representedBy": "../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
   "props": [
     {
@@ -8,8 +11,5 @@
       "value": "14"
     }
   ],
-  "name": "issues-s-ic-lox-vent",
-  "type": "issue",
-  "sourceVerified": false,
-  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+  "sourceVerified": false
 }

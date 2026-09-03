@@ -9,7 +9,6 @@
   "state": "done",
   "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
   "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
-  "sourceVerified": false,
   "body": "P52 - IMU REALIGN GDC ALIGN £40 p52 IMU REALIGN REPORT GYRO TORQUING ANGLES Yo o",
   "props": [
     {
@@ -20,5 +19,6 @@
       "name": "page",
       "value": "3"
     }
-  ]
+  ],
+  "sourceVerified": false
 }
