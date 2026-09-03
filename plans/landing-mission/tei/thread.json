@@ -1,0 +1,21 @@
+{
+  "guid": "32e2090c-5f7b-4abd-9a4f-a96d0a24d6d1",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "167:29:00"
+    }
+  ],
+  "plannedStart": "1970-04-18",
+  "plannedEnd": "1970-04-18",
+  "state": "abandoned",
+  "name": "plans-landing-mission-tei",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

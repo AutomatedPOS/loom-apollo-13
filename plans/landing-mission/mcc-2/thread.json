@@ -1,0 +1,23 @@
+{
+  "guid": "ba3e47ed-a564-4e2c-acd4-a14c62a4048a",
+  "name": "plans-landing-mission-mcc-2",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "sourceVerified": false,
+  "props": [
+    {
+      "name": "get-actual",
+      "value": "30:40:50"
+    },
+    {
+      "name": "get-planned",
+      "value": "30:41:00"
+    }
+  ]
+}

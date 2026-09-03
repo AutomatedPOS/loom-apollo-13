@@ -1,0 +1,23 @@
+{
+  "guid": "757965f8-ed53-4e50-ad9b-d28f32085b64",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "12"
+    },
+    {
+      "name": "get",
+      "value": "141:30:02"
+    }
+  ],
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "name": "plans-pc2-return-lm-jettison",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+}

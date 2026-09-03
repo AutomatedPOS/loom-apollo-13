@@ -1,0 +1,19 @@
+{
+  "guid": "3ffb45c2-7387-4e3a-b081-e41d1c7b1a2b",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "11"
+    },
+    {
+      "name": "get",
+      "value": "00:05:30.6"
+    }
+  ],
+  "actualStart": "1970-04-11",
+  "name": "plans-landing-mission-s-ii-early-cutoff",
+  "type": "issue",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

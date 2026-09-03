@@ -1,0 +1,17 @@
+{
+  "guid": "00dca388-61e8-42b2-8e9e-7da6f8cf05da",
+  "plannedEnd": "1970-04-15",
+  "state": "done",
+  "body": "Determine actual S-IVB impact point",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ],
+  "name": "plans-landing-mission-s-ivb-impact-point",
+  "type": "scopeItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

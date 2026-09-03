@@ -1,0 +1,18 @@
+{
+  "guid": "d4c849e5-3e68-4beb-a913-e46fe2528717",
+  "name": "apollo-13",
+  "type": "project",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-21",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "",
+  "sourceVerified": false,
+  "props": [
+    {
+      "name": "range-zero-utc",
+      "value": "1970-04-11T19:13:00Z"
+    }
+  ]
+}

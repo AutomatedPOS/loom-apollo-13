@@ -1,0 +1,17 @@
+{
+  "guid": "d423155e-ce10-417c-bed9-cbc4237e56c1",
+  "plannedEnd": "1970-04-21",
+  "state": "abandoned",
+  "body": "Deploy and activate ALSEP",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ],
+  "name": "plans-landing-mission-alsep",
+  "type": "scopeItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

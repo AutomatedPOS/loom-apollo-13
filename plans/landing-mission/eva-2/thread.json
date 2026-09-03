@@ -1,0 +1,21 @@
+{
+  "guid": "d8ec0270-c380-47df-8386-849bf2398e90",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "127:45:00"
+    }
+  ],
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "state": "abandoned",
+  "name": "plans-landing-mission-eva-2",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

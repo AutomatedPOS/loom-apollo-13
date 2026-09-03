@@ -1,0 +1,17 @@
+{
+  "guid": "6a90938b-c553-4d49-af56-f7d0ca9172f3",
+  "plannedEnd": "1970-04-21",
+  "state": "abandoned",
+  "body": "Work in the lunar environment",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ],
+  "name": "plans-landing-mission-lunar-environment",
+  "type": "scopeItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

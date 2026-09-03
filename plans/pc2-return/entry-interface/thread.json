@@ -1,0 +1,23 @@
+{
+  "guid": "066e6209-0374-4603-a09c-c5b06f025cf6",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "12"
+    },
+    {
+      "name": "get",
+      "value": "142:40:47"
+    }
+  ],
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "name": "plans-pc2-return-entry-interface",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+}

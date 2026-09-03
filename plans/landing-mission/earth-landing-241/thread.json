@@ -1,0 +1,21 @@
+{
+  "guid": "3153d08a-d39d-4fbb-8c98-4e448e63eb8c",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "241:03:00"
+    }
+  ],
+  "plannedStart": "1970-04-21",
+  "plannedEnd": "1970-04-21",
+  "state": "abandoned",
+  "name": "plans-landing-mission-earth-landing-241",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

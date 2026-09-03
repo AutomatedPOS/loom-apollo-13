@@ -1,0 +1,16 @@
+{
+  "guid": "ee592bff-b8d6-4908-8559-1326b26d4b0b",
+  "name": "plans-free-return-csm-anomaly-o2-tank-2-zero",
+  "type": "issue",
+  "actualStart": "1970-04-14",
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e",
+  "voidedPlan": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "sourceVerified": false,
+  "props": [
+    {
+      "name": "get-actual",
+      "value": "55:54:52"
+    }
+  ]
+}

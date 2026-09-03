@@ -1,0 +1,9 @@
+{
+  "guid": "cb6e33fa-c3d1-4698-9fb8-f568da3ba9ea",
+  "state": "abandoned",
+  "body": "SM-jettison and DPS to depletion.",
+  "name": "pc2-target-deplete-dps",
+  "type": "option",
+  "sourceVerified": false,
+  "isPartOf": "986936cc-f3d1-4fa6-95ad-b75b277c349e"
+}

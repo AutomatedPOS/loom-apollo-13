@@ -1,0 +1,21 @@
+{
+  "guid": "fef5ceb8-591f-428e-a0c2-b6c67b9bba0d",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "81:45:00"
+    }
+  ],
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "state": "abandoned",
+  "name": "plans-landing-mission-doi",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

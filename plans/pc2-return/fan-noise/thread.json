@@ -1,0 +1,19 @@
+{
+  "guid": "1187df5e-cfd1-45c8-ac44-c07966ba9537",
+  "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "43"
+    },
+    {
+      "name": "get",
+      "value": "94:52:00"
+    }
+  ],
+  "actualStart": "1970-04-15",
+  "name": "plans-pc2-return-fan-noise",
+  "type": "issue",
+  "sourceVerified": false,
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+}

@@ -1,0 +1,19 @@
+{
+  "guid": "3ead9735-1808-4ca4-812b-eb57c3daa771",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "14"
+    },
+    {
+      "name": "get",
+      "value": "46:45:00"
+    }
+  ],
+  "actualStart": "1970-04-13",
+  "name": "plans-landing-mission-o2-tank2-qty-high",
+  "type": "issue",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

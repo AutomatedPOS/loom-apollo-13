@@ -1,0 +1,23 @@
+{
+  "guid": "31f569a2-d12a-4545-98a8-6432f7a8e6fc",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "12"
+    },
+    {
+      "name": "get",
+      "value": "04:01:03"
+    }
+  ],
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "name": "plans-landing-mission-docking-extraction",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

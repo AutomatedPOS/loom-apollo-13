@@ -1,0 +1,19 @@
+{
+  "guid": "986936cc-f3d1-4fa6-95ad-b75b277c349e",
+  "decidedDate": "1970-04-15",
+  "state": "done",
+  "context": "After MCC-4, free-return splash was 152/155 GET Indian Ocean. Consumables and recovery argued against staying, against DPS-to-depletion, and for a PC+2 burn to 142 GET Pacific.",
+  "chose": "Burn PC+2. Splash 142 GET in the Pacific. Do not stay on 152/155. Do not deplete the DPS.",
+  "consequences": "free-return is superseded by pc2-return. Indian Ocean recovery is abandoned.",
+  "representedBy": "../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "75"
+    }
+  ],
+  "name": "pc2-target",
+  "type": "decision",
+  "sourceVerified": false,
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+}

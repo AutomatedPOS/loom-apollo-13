@@ -1,0 +1,23 @@
+{
+  "guid": "8b3b779b-27ae-4af7-b835-6a2f2235f4e0",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "12"
+    },
+    {
+      "name": "get",
+      "value": "137:39:49"
+    }
+  ],
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "name": "plans-pc2-return-mcc-7-burn",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+}

@@ -1,0 +1,23 @@
+{
+  "guid": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "name": "plans-free-return",
+  "type": "plan",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-18",
+  "state": "superseded",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
+  "supersedes": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "supersededBecause": "Nominal mission aborted. Remaining maneuvers planned in real time for return to Earth.",
+  "representedBy": "../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "props": [
+    {
+      "name": "get-splash-petrone",
+      "value": "152:00"
+    },
+    {
+      "name": "get-splash-control",
+      "value": "155:00"
+    }
+  ]
+}

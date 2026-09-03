@@ -1,0 +1,17 @@
+{
+  "guid": "47a00ab9-86cb-4c6d-8c3a-6a3cfc688af9",
+  "plannedEnd": "1970-04-21",
+  "state": "abandoned",
+  "body": "Photographs of candidate exploration sites",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ],
+  "name": "plans-landing-mission-candidate-site-photos",
+  "type": "scopeItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

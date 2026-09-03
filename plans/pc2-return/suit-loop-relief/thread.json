@@ -1,0 +1,19 @@
+{
+  "guid": "b526f11f-d803-4a11-b666-002472475903",
+  "representedBy": "../../../artifacts/mission-ops-ntrs/mission-ops-report-ntrs-19710010485.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "216"
+    },
+    {
+      "name": "get",
+      "value": "118:33:00"
+    }
+  ],
+  "actualStart": "1970-04-16",
+  "name": "plans-pc2-return-suit-loop-relief",
+  "type": "issue",
+  "sourceVerified": false,
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b"
+}

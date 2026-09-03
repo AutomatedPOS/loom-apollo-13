@@ -1,0 +1,23 @@
+{
+  "guid": "3327bf55-4212-46cc-bbbc-9b1954ac36e2",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "12"
+    },
+    {
+      "name": "get",
+      "value": "03:06:39"
+    }
+  ],
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "name": "plans-landing-mission-csm-s-ivb-sep",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

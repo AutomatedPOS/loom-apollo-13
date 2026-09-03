@@ -1,0 +1,23 @@
+{
+  "guid": "0cfba880-a80c-4e62-a320-4da1a0aeec90",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "11"
+    },
+    {
+      "name": "get",
+      "value": "00:12:39.8"
+    }
+  ],
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "name": "plans-landing-mission-s-ivb-cutoff",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

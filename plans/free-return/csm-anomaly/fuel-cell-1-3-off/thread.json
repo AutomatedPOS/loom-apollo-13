@@ -1,0 +1,19 @@
+{
+  "guid": "c523f2b0-b1a0-400f-8b69-fd4a4b13651c",
+  "representedBy": "../../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "5"
+    },
+    {
+      "name": "get",
+      "value": "56:13:00"
+    }
+  ],
+  "actualStart": "1970-04-14",
+  "name": "plans-free-return-csm-anomaly-fuel-cell-1-3-off",
+  "type": "issue",
+  "sourceVerified": false,
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e"
+}

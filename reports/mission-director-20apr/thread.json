@@ -1,0 +1,15 @@
+{
+  "guid": "a19cb494-d447-459a-9565-7e07593662c9",
+  "actualStart": "1970-04-20",
+  "representedBy": "../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "3"
+    }
+  ],
+  "name": "reports-mission-director-20apr",
+  "type": "report",
+  "sourceVerified": false,
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717"
+}

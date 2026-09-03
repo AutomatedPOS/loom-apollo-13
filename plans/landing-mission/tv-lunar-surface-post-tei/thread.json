@@ -1,0 +1,21 @@
+{
+  "guid": "03fa0a6f-4842-405a-8cca-d9075a488cd7",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "17"
+    },
+    {
+      "name": "get-planned",
+      "value": "166:10:00"
+    }
+  ],
+  "plannedStart": "1970-04-18",
+  "plannedEnd": "1970-04-18",
+  "state": "abandoned",
+  "name": "plans-landing-mission-tv-lunar-surface-post-tei",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

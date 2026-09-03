@@ -1,0 +1,22 @@
+{
+  "guid": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "name": "plans-landing-mission",
+  "type": "plan",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-21",
+  "state": "superseded",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
+  "representedBy": "../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "sourceVerified": false,
+  "body": "Slice: representedBy is the postlaunch MOR because the Final Flight Plan is not copied yet.",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "docPage",
+      "value": "ghost-table-2"
+    }
+  ]
+}

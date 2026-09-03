@@ -1,0 +1,23 @@
+{
+  "guid": "564519e2-a739-46ed-9fcf-9c79702ef1d4",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "11"
+    },
+    {
+      "name": "get",
+      "value": "00:03:20.0"
+    }
+  ],
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "name": "plans-landing-mission-let-jettison",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

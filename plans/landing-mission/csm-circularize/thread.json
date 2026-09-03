@@ -1,0 +1,21 @@
+{
+  "guid": "8cd4ba40-e721-48ca-a2f8-873d1d1064fc",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "100:35:00"
+    }
+  ],
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "state": "abandoned",
+  "name": "plans-landing-mission-csm-circularize",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

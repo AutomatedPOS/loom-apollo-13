@@ -1,0 +1,23 @@
+{
+  "guid": "208eeb58-f7ba-4fbe-b50a-ce00cb1d20b5",
+  "name": "abort-lifeboat-lm-tm-lock",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "sourceVerified": false,
+  "props": [
+    {
+      "name": "get-actual",
+      "value": "57:57:00"
+    },
+    {
+      "name": "alsoScheduledBy",
+      "value": "48c77487-ddfc-4221-af1a-02e7047b60cc"
+    }
+  ]
+}

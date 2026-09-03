@@ -1,0 +1,21 @@
+{
+  "guid": "b9aabc5e-6415-4276-99e5-08cf0db2190e",
+  "representedBy": "../../../artifacts/prelaunch-mor/prelaunch-mor-19700331.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "16"
+    },
+    {
+      "name": "get-planned",
+      "value": "56:00:00"
+    }
+  ],
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "state": "abandoned",
+  "name": "plans-landing-mission-lunar-photos-optional",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

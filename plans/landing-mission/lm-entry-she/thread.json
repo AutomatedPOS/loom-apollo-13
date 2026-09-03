@@ -1,0 +1,23 @@
+{
+  "guid": "a5772aa5-0f32-428f-a6d7-6b8e6678c0b3",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "5"
+    },
+    {
+      "name": "get",
+      "value": "54:00:00"
+    }
+  ],
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "name": "plans-landing-mission-lm-entry-she",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}

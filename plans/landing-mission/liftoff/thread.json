@@ -1,0 +1,23 @@
+{
+  "guid": "772baaef-318e-415d-b0f7-1362582d123e",
+  "representedBy": "../../../artifacts/postlaunch-mor/postlaunch-mor-19700428.pdf",
+  "props": [
+    {
+      "name": "page",
+      "value": "11"
+    },
+    {
+      "name": "get",
+      "value": "00:00:00.6"
+    }
+  ],
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "name": "plans-landing-mission-liftoff",
+  "type": "workItem",
+  "sourceVerified": false,
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0"
+}
