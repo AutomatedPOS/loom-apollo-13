@@ -4,10 +4,12 @@
   "type": "workItem",
   "plannedStart": "1970-03-31",
   "plannedEnd": "1970-03-31",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
   "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
   "sourceVerified": false,
-  "body": "TOC doc p.24. Used MCC-5 power-up.",
+  "body": "TOC doc p.24. Procedure starts PDF page 37. Used MCC-5 power-up.",
   "props": [
     {
       "name": "alsoScheduledBy",
@@ -15,11 +17,13 @@
     },
     {
       "name": "page",
-      "value": "24"
+      "value": "37",
+      "class": "pdf"
     },
     {
-      "name": "docPage",
-      "value": "24"
+      "name": "page",
+      "value": "24",
+      "class": "printed"
     }
   ],
   "state": "done"

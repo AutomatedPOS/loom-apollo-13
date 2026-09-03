@@ -2,6 +2,8 @@
   "guid": "619b19e2-783c-49c1-b73d-837eccce9310",
   "plannedStart": "1970-03-31",
   "plannedEnd": "1970-03-31",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
   "props": [
     {
@@ -10,11 +12,13 @@
     },
     {
       "name": "page",
-      "value": "16"
+      "value": "29",
+      "class": "pdf"
     },
     {
-      "name": "docPage",
-      "value": "16"
+      "name": "page",
+      "value": "16",
+      "class": "printed"
     }
   ],
   "state": "done",

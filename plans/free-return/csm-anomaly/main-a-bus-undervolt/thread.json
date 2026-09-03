@@ -7,7 +7,14 @@
   "representedBy": "../../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
   "sourceVerified": false,
   "props": [
-    {"name": "page", "value": "4"},
-    {"name": "get", "value": "55:58:25"}
+    {
+      "name": "page",
+      "value": "4",
+      "class": "pdf"
+    },
+    {
+      "name": "get",
+      "value": "55:58:25"
+    }
   ]
 }

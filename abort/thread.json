@@ -13,12 +13,13 @@
   "props": [
     {
       "name": "page",
-      "value": "1"
+      "value": "1",
+      "class": "pdf"
     },
     {
       "name": "page",
       "value": "5",
-      "class": "also"
+      "class": "pdf"
     }
   ]
 }

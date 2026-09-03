@@ -12,11 +12,9 @@
   "props": [
     {
       "name": "page",
-      "value": "16"
-    },
-    {
-      "name": "docPage",
-      "value": "ghost-table-2"
+      "value": "16",
+      "class": "pdf",
+      "remarks": "ghost-table-2"
     }
   ]
 }

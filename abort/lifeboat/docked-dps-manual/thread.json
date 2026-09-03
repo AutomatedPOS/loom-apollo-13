@@ -7,7 +7,7 @@
   "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
   "sourceVerified": false,
-  "body": "TOC doc p.31. Unused unless PGNS DPS failed.",
+  "body": "TOC doc p.31. Procedure starts PDF page 45. Unused unless PGNS DPS failed.",
   "props": [
     {
       "name": "alsoScheduledBy",
@@ -15,11 +15,13 @@
     },
     {
       "name": "page",
-      "value": "31"
+      "value": "45",
+      "class": "pdf"
     },
     {
-      "name": "docPage",
-      "value": "31"
+      "name": "page",
+      "value": "31",
+      "class": "printed"
     },
     {
       "name": "performed",

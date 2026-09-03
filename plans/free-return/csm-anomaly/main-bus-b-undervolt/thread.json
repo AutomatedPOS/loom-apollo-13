@@ -4,11 +4,36 @@
   "props": [
     {
       "name": "page",
-      "value": "5"
+      "value": "5",
+      "class": "pdf"
+    },
+    {
+      "name": "page",
+      "value": "12",
+      "class": "pdf",
+      "remarks": "Table 2"
     },
     {
       "name": "get",
-      "value": "55:55:20"
+      "value": "55:55",
+      "remarks": "approximately 55:55, MOR p.5"
+    },
+    {
+      "name": "get",
+      "value": "55:54:53",
+      "remarks": "Table 2 Liquid Oxygen Tank Anomaly"
+    },
+    {
+      "name": "get",
+      "value": "55:55:20",
+      "ns": "https://example.invalid/loom/flight-plan-54-splash",
+      "remarks": "MAIN B BUS UNDER VOLT, flight-plan-54-to-splash PDF page 4"
+    },
+    {
+      "name": "page",
+      "value": "4",
+      "class": "pdf",
+      "ns": "https://example.invalid/loom/flight-plan-54-splash"
     }
   ],
   "actualStart": "1970-04-14",
