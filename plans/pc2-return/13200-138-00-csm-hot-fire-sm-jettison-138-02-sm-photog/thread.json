@@ -1,0 +1,24 @@
+{
+  "guid": "984b55f1-43f1-45ad-91f1-94c25c26aad0",
+  "name": "plans-pc2-return-13200-138-00-csm-hot-fire-sm-jettison-138-02-sm-photog",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "138:00 CSM _HOT FIRE SM JETTISON| 138:02 SM PHOTOGRAPHY & DESCRIPTION",
+  "props": [
+    {
+      "name": "get",
+      "value": "132:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

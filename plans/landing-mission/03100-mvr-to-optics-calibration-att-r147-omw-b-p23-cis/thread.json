@@ -1,0 +1,24 @@
+{
+  "guid": "b6c492cd-1e16-4179-93b6-d4e872f74ed6",
+  "name": "plans-landing-mission-03100-mvr-to-optics-calibration-att-r147-omw-b-p23-cis",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "MVR TO OPTICS CALIBRATION ATT R147 OMW/-B P23-CISLUNAR NAVIGATION ee 3° MARKS EA",
+  "props": [
+    {
+      "name": "get",
+      "value": "31:00:00"
+    },
+    {
+      "name": "page",
+      "value": "35"
+    }
+  ]
+}

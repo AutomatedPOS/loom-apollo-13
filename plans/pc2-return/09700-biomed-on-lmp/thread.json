@@ -1,0 +1,24 @@
+{
+  "guid": "541d7b6a-a1ba-46f2-8480-0852bda4c4ae",
+  "name": "plans-pc2-return-09700-biomed-on-lmp",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "BIOMED ON LMP",
+  "props": [
+    {
+      "name": "get",
+      "value": "97:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "8d7b9443-607c-4e30-a237-04e25dcd656d",
+  "name": "plans-landing-mission-00530-p52-imu-realign-n-p52-imu-realign-stars-n71-es-p",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": ": P52 IMU REALIGN N P52 - IMU REALIGN STARS , N71: es, (PTC ORIENT) SA ; ee",
+  "props": [
+    {
+      "name": "get",
+      "value": "05:30:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "e088c3e1-cf20-467d-99aa-dd108f99c347",
+  "name": "plans-landing-mission-00430-al-so-voi-s-c-interior-photo",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "= al So voi S/C_INTERIOR PHOTO-",
+  "props": [
+    {
+      "name": "get",
+      "value": "04:30:00"
+    },
+    {
+      "name": "page",
+      "value": "11"
+    }
+  ]
+}

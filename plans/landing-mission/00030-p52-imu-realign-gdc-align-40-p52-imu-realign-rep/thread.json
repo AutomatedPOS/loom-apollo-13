@@ -1,0 +1,24 @@
+{
+  "guid": "2520d16b-5b17-4d0d-b049-5e5afa959988",
+  "name": "plans-landing-mission-00030-p52-imu-realign-gdc-align-40-p52-imu-realign-rep",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "P52 - IMU REALIGN GDC ALIGN £40 p52 IMU REALIGN REPORT GYRO TORQUING ANGLES Yo o",
+  "props": [
+    {
+      "name": "get",
+      "value": "00:30:00"
+    },
+    {
+      "name": "page",
+      "value": "3"
+    }
+  ]
+}

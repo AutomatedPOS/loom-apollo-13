@@ -1,0 +1,24 @@
+{
+  "guid": "e54a4751-0b7d-4455-a55f-2290a61026b2",
+  "name": "plans-pc2-return-08800-94-00-lioh-cannister-rest-6500-96-00-procedure-u",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "94:00 LiOH CANNISTER REST 6500 96:00 PROCEDURE UPDATE LM POWER TO CM",
+  "props": [
+    {
+      "name": "get",
+      "value": "88:00:00"
+    },
+    {
+      "name": "page",
+      "value": "11"
+    }
+  ]
+}

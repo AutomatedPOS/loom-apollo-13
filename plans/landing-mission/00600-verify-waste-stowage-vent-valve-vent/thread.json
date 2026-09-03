@@ -1,0 +1,24 @@
+{
+  "guid": "0239da1a-2a6f-4185-8fb1-00100776e1bb",
+  "name": "plans-landing-mission-00600-verify-waste-stowage-vent-valve-vent",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "VERIFY WASTE STOWAGE VENT VALVE - VENT",
+  "props": [
+    {
+      "name": "get",
+      "value": "06:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

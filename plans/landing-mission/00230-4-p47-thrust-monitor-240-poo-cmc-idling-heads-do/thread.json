@@ -1,0 +1,24 @@
+{
+  "guid": "ba64373a-e46e-4d7b-b850-894d28447d0b",
+  "name": "plans-landing-mission-00230-4-p47-thrust-monitor-240-poo-cmc-idling-heads-do",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "4 P47 - THRUST MONITOR 240 POO - CMC IDLING HEADS DOWN Dun dsE TLI BURN STATUS R",
+  "props": [
+    {
+      "name": "get",
+      "value": "02:30:00"
+    },
+    {
+      "name": "page",
+      "value": "7"
+    }
+  ]
+}

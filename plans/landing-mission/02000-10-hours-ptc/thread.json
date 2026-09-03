@@ -1,0 +1,24 @@
+{
+  "guid": "062e5f4a-832b-4cbc-9ec0-75573bdd40cc",
+  "name": "plans-landing-mission-02000-10-hours-ptc",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "} % (10 HOURS) PTC",
+  "props": [
+    {
+      "name": "get",
+      "value": "20:00:00"
+    },
+    {
+      "name": "page",
+      "value": "25"
+    }
+  ]
+}

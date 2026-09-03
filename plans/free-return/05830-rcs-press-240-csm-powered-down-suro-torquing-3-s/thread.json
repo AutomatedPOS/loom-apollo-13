@@ -1,0 +1,24 @@
+{
+  "guid": "3811c680-b8ec-475e-9bef-e64dccb9f1c0",
+  "name": "plans-free-return-05830-rcs-press-240-csm-powered-down-suro-torquing-3-s",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": ": RCS PRESS 240 CSM POWERED DOWN SURO TORQUING 3's IMU FINE ALIGN",
+  "props": [
+    {
+      "name": "get",
+      "value": "58:30:00"
+    },
+    {
+      "name": "page",
+      "value": "7"
+    }
+  ]
+}

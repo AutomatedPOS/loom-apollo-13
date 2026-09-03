@@ -1,0 +1,24 @@
+{
+  "guid": "6b162761-9f92-41d7-9fe3-3c35a62d1b4b",
+  "name": "plans-landing-mission-03600-uplink-to-csm-csm-s-v-vo6-eat-period-presleep-ch",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "UPLINK TO CSM CSM S.V. & VO6 EAT PERIOD PRESLEEP CHECKLIST",
+  "props": [
+    {
+      "name": "get",
+      "value": "36:00:00"
+    },
+    {
+      "name": "page",
+      "value": "38"
+    }
+  ]
+}

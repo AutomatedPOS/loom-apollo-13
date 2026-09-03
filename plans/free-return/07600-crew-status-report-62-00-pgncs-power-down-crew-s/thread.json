@@ -1,0 +1,24 @@
+{
+  "guid": "e6efc43d-19ac-44ac-b4d2-500382aacdca",
+  "name": "plans-free-return-07600-crew-status-report-62-00-pgncs-power-down-crew-s",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "CREW STATUS REPORT 62:00 PGNCS POWER DOWN CREW STATUS REPORT",
+  "props": [
+    {
+      "name": "get",
+      "value": "76:00:00"
+    },
+    {
+      "name": "page",
+      "value": "10"
+    }
+  ]
+}

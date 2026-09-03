@@ -1,0 +1,24 @@
+{
+  "guid": "0fdcafeb-b8f9-460d-a967-8caa4b08eae0",
+  "name": "plans-landing-mission-01100-continue-ptc-if-mcc-1-is-not-performed-l",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "CONTINUE PTC IF MCC-1 IS NOT PERFORMED L",
+  "props": [
+    {
+      "name": "get",
+      "value": "11:00:00"
+    },
+    {
+      "name": "page",
+      "value": "17"
+    }
+  ]
+}

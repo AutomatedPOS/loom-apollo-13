@@ -1,0 +1,29 @@
+{
+  "guid": "f153a07a-18d7-434c-b816-57e909aab42f",
+  "name": "abort-lifeboat-docked-dps-manual",
+  "type": "workItem",
+  "plannedStart": "1970-03-31",
+  "plannedEnd": "1970-03-31",
+  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
+  "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
+  "sourceVerified": false,
+  "body": "TOC doc p.31. Unused unless PGNS DPS failed.",
+  "props": [
+    {
+      "name": "alsoScheduledBy",
+      "value": "48c77487-ddfc-4221-af1a-02e7047b60cc"
+    },
+    {
+      "name": "page",
+      "value": "31"
+    },
+    {
+      "name": "docPage",
+      "value": "31"
+    },
+    {
+      "name": "performed",
+      "value": "np"
+    }
+  ]
+}

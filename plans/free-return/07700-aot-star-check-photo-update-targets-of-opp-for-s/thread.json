@@ -1,0 +1,24 @@
+{
+  "guid": "4e412a27-882f-46de-b6fb-e217596ad245",
+  "name": "plans-free-return-07700-aot-star-check-photo-update-targets-of-opp-for-s",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "AOT STAR CHECK PHOTO UPDATE (TARGETS OF OPP. FOR SM JETTISON)",
+  "props": [
+    {
+      "name": "get",
+      "value": "77:00:00"
+    },
+    {
+      "name": "page",
+      "value": "10"
+    }
+  ]
+}

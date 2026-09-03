@@ -1,0 +1,24 @@
+{
+  "guid": "ae8a2c5f-aa69-4a1d-803d-30cc7d0e86c1",
+  "name": "plans-landing-mission-03030-1-gdc-align-je-tli-cutoff-x-a-mcc-2-burn-status",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "1 GDC ALIGN je] _¢ TLI CUTOFF - = |X a MCC-2 BURN STATUS REPORT ORBIT: N/A REPOR",
+  "props": [
+    {
+      "name": "get",
+      "value": "30:30:00"
+    },
+    {
+      "name": "page",
+      "value": "34"
+    }
+  ]
+}

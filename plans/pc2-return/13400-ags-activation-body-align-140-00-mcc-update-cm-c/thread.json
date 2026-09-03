@@ -1,0 +1,24 @@
+{
+  "guid": "d96a00cd-ebd2-4e31-a560-b36dff77fa86",
+  "name": "plans-pc2-return-13400-ags-activation-body-align-140-00-mcc-update-cm-c",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "AGS ACTIVATION & BODY ALIGN 140:00 MCC UPDATE: CM COARSE ALIGN 3's",
+  "props": [
+    {
+      "name": "get",
+      "value": "134:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

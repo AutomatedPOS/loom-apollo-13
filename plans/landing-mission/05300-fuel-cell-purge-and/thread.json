@@ -1,0 +1,24 @@
+{
+  "guid": "cb7bad1c-d0b9-4c96-ad21-ffee69471167",
+  "name": "plans-landing-mission-05300-fuel-cell-purge-and",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "FUEL CELL PURGE AND",
+  "props": [
+    {
+      "name": "get",
+      "value": "53:00:00"
+    },
+    {
+      "name": "page",
+      "value": "47"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "53f4c998-37d7-4a82-ad31-75c4e776e5ec",
+  "name": "plans-pc2-return-10000-16a-00-establish-ptc-ags-burn-status-report-pass",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "16a:00 ESTABLISH PTC - AGS BURN STATUS REPORT ; PASSED UP PROCEDURES FOR LM MCC ",
+  "props": [
+    {
+      "name": "get",
+      "value": "100:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

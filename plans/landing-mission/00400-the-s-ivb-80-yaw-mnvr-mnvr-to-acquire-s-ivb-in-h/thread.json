@@ -1,0 +1,24 @@
+{
+  "guid": "4d5618fc-0d3f-4789-b3c7-ccccf59d7885",
+  "name": "plans-landing-mission-00400-the-s-ivb-80-yaw-mnvr-mnvr-to-acquire-s-ivb-in-h",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "THE S-IVB 80° YAW MNVR MNVR TO ACQUIRE S-IVB IN HATCH ION +3 MIN. THE MNVR",
+  "props": [
+    {
+      "name": "get",
+      "value": "04:00:00"
+    },
+    {
+      "name": "page",
+      "value": "11"
+    }
+  ]
+}

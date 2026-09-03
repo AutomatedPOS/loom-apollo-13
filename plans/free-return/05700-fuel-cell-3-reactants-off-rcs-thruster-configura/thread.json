@@ -1,0 +1,24 @@
+{
+  "guid": "1ce3458d-784f-4904-a96e-6423d09c66c7",
+  "name": "plans-free-return-05700-fuel-cell-3-reactants-off-rcs-thruster-configura",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "FUEL CELL 3 REACTANTS OFF RCS THRUSTER CONFIGURATION VERIFIED",
+  "props": [
+    {
+      "name": "get",
+      "value": "57:00:00"
+    },
+    {
+      "name": "page",
+      "value": "6"
+    }
+  ]
+}

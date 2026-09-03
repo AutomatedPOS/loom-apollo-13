@@ -1,0 +1,24 @@
+{
+  "guid": "c85c5997-dd1e-4ba4-a1b9-5970a9bd03b0",
+  "name": "plans-pc2-return-11000-rest-period-wee-rest-period",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "REST PERIOD WEE REST PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "110:00:00"
+    },
+    {
+      "name": "page",
+      "value": "13"
+    }
+  ]
+}

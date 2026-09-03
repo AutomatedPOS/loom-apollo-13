@@ -1,0 +1,24 @@
+{
+  "guid": "b97776bf-8d48-402e-9712-25bdeb63234c",
+  "name": "plans-pc2-return-13600-mcc-uplink-mcc-7-target-load-142-00-mnvr-to-entr",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "MCC UPLINK: MCC-7 TARGET LOAD 142:00 MNVR TO ENTRY ATT: RO, P 91.3, YO",
+  "props": [
+    {
+      "name": "get",
+      "value": "136:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

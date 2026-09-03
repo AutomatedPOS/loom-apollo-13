@@ -1,0 +1,24 @@
+{
+  "guid": "13c448cb-4b9c-45da-a3c1-d6221380855b",
+  "name": "plans-landing-mission-01500-m-rest-period-s-10-hours-ptc",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "M REST PERIOD . S (10 HOURS) PTC",
+  "props": [
+    {
+      "name": "get",
+      "value": "15:00:00"
+    },
+    {
+      "name": "page",
+      "value": "23"
+    }
+  ]
+}

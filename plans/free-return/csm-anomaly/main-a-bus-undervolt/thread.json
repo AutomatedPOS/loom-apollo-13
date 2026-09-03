@@ -1,0 +1,13 @@
+{
+  "guid": "38811bc1-5f65-4285-889f-87cac10f0e84",
+  "name": "plans-free-return-csm-anomaly-main-a-bus-undervolt",
+  "type": "issue",
+  "actualStart": "1970-04-14",
+  "isPartOf": "f56bb35a-8ed2-4c23-bc34-e1fd04e3846e",
+  "representedBy": "../../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "props": [
+    {"name": "page", "value": "4"},
+    {"name": "get", "value": "55:58:25"}
+  ]
+}

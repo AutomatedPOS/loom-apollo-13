@@ -1,0 +1,24 @@
+{
+  "guid": "644dfbdb-c89e-4a1a-bc38-ced75747294e",
+  "name": "plans-pc2-return-13300-139-00-recovery-weather-report-power-up-lm-syste",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "139:00 RECOVERY WEATHER REPORT POWER UP LM SYSTEMS",
+  "props": [
+    {
+      "name": "get",
+      "value": "133:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "e574bc6f-0c88-4f59-bfdd-be9000007714",
+  "name": "plans-landing-mission-00800-deactivate-primary-evaporator",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "DEACTIVATE PRIMARY EVAPORATOR",
+  "props": [
+    {
+      "name": "get",
+      "value": "08:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

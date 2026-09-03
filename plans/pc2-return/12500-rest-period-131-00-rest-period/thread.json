@@ -1,0 +1,24 @@
+{
+  "guid": "15b14f5d-bc4e-4cf7-a3ee-3d2a0d8c4d6e",
+  "name": "plans-pc2-return-12500-rest-period-131-00-rest-period",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "REST PERIOD 131:00 REST PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "125:00:00"
+    },
+    {
+      "name": "page",
+      "value": "14"
+    }
+  ]
+}

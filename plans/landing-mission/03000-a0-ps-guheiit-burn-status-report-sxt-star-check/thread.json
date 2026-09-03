@@ -1,0 +1,24 @@
+{
+  "guid": "cd5ff2bd-a375-4530-927e-771c176954df",
+  "name": "plans-landing-mission-03000-a0-ps-guheiit-burn-status-report-sxt-star-check",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "a0 ~ ps Guheiit BURN STATUS REPORT SXT STAR CHECK xx $_|aTIG",
+  "props": [
+    {
+      "name": "get",
+      "value": "30:00:00"
+    },
+    {
+      "name": "page",
+      "value": "34"
+    }
+  ]
+}

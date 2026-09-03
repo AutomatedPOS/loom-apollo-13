@@ -1,0 +1,24 @@
+{
+  "guid": "a832205e-0245-4d53-b912-68b07bdd3162",
+  "name": "plans-landing-mission-00330-1-remove-and-temporarily-stow-tunnel-hatch-lm-ej",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "1 REMOVE AND TEMPORARILY STOW TUNNEL HATCH LM EJECTION: ik CHECK DOCKING LATCHES",
+  "props": [
+    {
+      "name": "get",
+      "value": "03:30:00"
+    },
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ]
+}

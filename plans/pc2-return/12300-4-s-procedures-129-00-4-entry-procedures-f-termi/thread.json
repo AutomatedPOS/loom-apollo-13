@@ -1,0 +1,24 @@
+{
+  "guid": "29e87c8b-5515-469b-a9c6-26ad42ef5547",
+  "name": "plans-pc2-return-12300-4-s-procedures-129-00-4-entry-procedures-f-termi",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "-4 S | PROCEDURES 129:00-4 $ ENTRY PROCEDURES F | TERMINATE BATTERY CHARGE-BATT ",
+  "props": [
+    {
+      "name": "get",
+      "value": "123:00:00"
+    },
+    {
+      "name": "page",
+      "value": "14"
+    }
+  ]
+}

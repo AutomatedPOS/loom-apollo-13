@@ -1,0 +1,24 @@
+{
+  "guid": "df17ae73-851b-4d4c-bb6a-281b57d83a29",
+  "name": "plans-landing-mission-01300-during-rest-period-m-rest-period",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "DURING REST PERIOD M REST PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "13:00:00"
+    },
+    {
+      "name": "page",
+      "value": "22"
+    }
+  ]
+}

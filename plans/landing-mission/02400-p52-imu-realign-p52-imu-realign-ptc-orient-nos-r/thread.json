@@ -1,0 +1,24 @@
+{
+  "guid": "efaf335c-7f1c-42ee-a151-cc87df09e5bd",
+  "name": "plans-landing-mission-02400-p52-imu-realign-p52-imu-realign-ptc-orient-nos-r",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "P52 IMU REALIGN P52 IMU REALIGN (PTC ORIENT) NOS: : REPORT GYRO TORQUING ANGLES ",
+  "props": [
+    {
+      "name": "get",
+      "value": "24:00:00"
+    },
+    {
+      "name": "page",
+      "value": "28"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "cb1cb3fc-a0e9-474a-8962-76276f68f01e",
+  "name": "plans-landing-mission-00930-s-get-whrs-f-o-v-18-ptc-ss-weather-3s-yy-photogr",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "S GET WHRS F.O.V. 18° PTC < SS WEATHER 3S YY PHOTOGRAPHY",
+  "props": [
+    {
+      "name": "get",
+      "value": "09:30:00"
+    },
+    {
+      "name": "page",
+      "value": "16"
+    }
+  ]
+}

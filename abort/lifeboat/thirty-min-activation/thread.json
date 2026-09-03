@@ -1,8 +1,13 @@
 {
-  "guid": "619b19e2-783c-49c1-b73d-837eccce9310",
+  "guid": "30417729-ab26-4516-bd69-f5baca40b85f",
+  "name": "abort-lifeboat-thirty-min-activation",
+  "type": "workItem",
   "plannedStart": "1970-03-31",
   "plannedEnd": "1970-03-31",
+  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
+  "sourceVerified": false,
+  "body": "TOC doc p.24. Used MCC-5 power-up.",
   "props": [
     {
       "name": "alsoScheduledBy",
@@ -10,16 +15,12 @@
     },
     {
       "name": "page",
-      "value": "16"
+      "value": "24"
     },
     {
       "name": "docPage",
-      "value": "16"
+      "value": "24"
     }
   ],
-  "state": "done",
-  "name": "abort-lifeboat-docked-dps",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e"
+  "state": "done"
 }

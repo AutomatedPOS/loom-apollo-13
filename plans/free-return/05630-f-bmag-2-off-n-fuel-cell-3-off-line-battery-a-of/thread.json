@@ -1,0 +1,24 @@
+{
+  "guid": "683f6ea3-6e40-4b38-b989-45ec5706b0ff",
+  "name": "plans-free-return-05630-f-bmag-2-off-n-fuel-cell-3-off-line-battery-a-of",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "F | BMAG 2 OFF N | FUEL CELL 3 OFF LINE BATTERY A OFF",
+  "props": [
+    {
+      "name": "get",
+      "value": "56:30:00"
+    },
+    {
+      "name": "page",
+      "value": "5"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "95af6007-4f98-48b9-96d5-53ba20f47c23",
+  "name": "plans-landing-mission-00300-activate-and-load-dap-n46-11103-11111-t-d-mnvr-a",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "ACTIVATE AND LOAD DAP N46 (11103, 11111) T&D MNVR ae 1 RED LOAD DOCKING GIMBAL A",
+  "props": [
+    {
+      "name": "get",
+      "value": "03:00:00"
+    },
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ]
+}

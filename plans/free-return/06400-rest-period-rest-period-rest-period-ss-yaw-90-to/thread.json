@@ -1,0 +1,24 @@
+{
+  "guid": "8f19a048-f033-483d-be95-7bf854fd6bcc",
+  "name": "plans-free-return-06400-rest-period-rest-period-rest-period-ss-yaw-90-to",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "REST PERIOD ; ; REST PERIOD REST PERIOD SS YAW 90° TO NEXT PTC ATT | 71:00 (6.0 ",
+  "props": [
+    {
+      "name": "get",
+      "value": "64:00:00"
+    },
+    {
+      "name": "page",
+      "value": "9"
+    }
+  ]
+}

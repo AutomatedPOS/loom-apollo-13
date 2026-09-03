@@ -1,0 +1,24 @@
+{
+  "guid": "adbd2aad-b1e6-411d-8f6e-183d3e8bf4a0",
+  "name": "plans-pc2-return-12100-pa-off-127-00-rest-period",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "PA-OFF 127:00 REST PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "121:00:00"
+    },
+    {
+      "name": "page",
+      "value": "14"
+    }
+  ]
+}

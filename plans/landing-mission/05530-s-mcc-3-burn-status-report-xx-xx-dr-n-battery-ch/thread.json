@@ -1,0 +1,24 @@
+{
+  "guid": "2ad8671d-ac9c-4d1b-80a8-6c2bde5d5589",
+  "name": "plans-landing-mission-05530-s-mcc-3-burn-status-report-xx-xx-dr-n-battery-ch",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "S MCC-3 BURN STATUS REPORT | Xx xX | | dR N BATTERY CHARGE, BATTERY B | xixix!",
+  "props": [
+    {
+      "name": "get",
+      "value": "55:30:00"
+    },
+    {
+      "name": "page",
+      "value": "50"
+    }
+  ]
+}

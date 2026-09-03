@@ -1,0 +1,24 @@
+{
+  "guid": "b44638a3-c9a5-46a3-8ca8-9cf730cdcad7",
+  "name": "plans-pc2-return-10100-107-00-rest-period-rest-period-csm-power-procedu",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "107:00 REST PERIOD REST PERIOD CSM POWER PROCEDURES FOR TELEMETRY",
+  "props": [
+    {
+      "name": "get",
+      "value": "101:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

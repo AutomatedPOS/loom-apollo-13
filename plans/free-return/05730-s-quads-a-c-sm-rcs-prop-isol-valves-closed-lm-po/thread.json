@@ -1,0 +1,24 @@
+{
+  "guid": "2e222088-3709-4891-b7bd-93e6510d24c6",
+  "name": "plans-free-return-05730-s-quads-a-c-sm-rcs-prop-isol-valves-closed-lm-po",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "s QUADS A&C SM RCS PROP ISOL VALVES CLOSED LM POWER UP (57:36)",
+  "props": [
+    {
+      "name": "get",
+      "value": "57:30:00"
+    },
+    {
+      "name": "page",
+      "value": "6"
+    }
+  ]
+}

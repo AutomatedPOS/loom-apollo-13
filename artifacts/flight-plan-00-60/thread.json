@@ -1,0 +1,9 @@
+{
+  "guid": "571ba760-e44d-4872-ba0c-74bedcabd672",
+  "name": "artifacts-flight-plan-00-60",
+  "type": "artifact",
+  "actualEnd": "1970-03-16",
+  "isPartOf": "d4c849e5-3e68-4beb-a913-e46fe2528717",
+  "representedBy": "flight-plan-00-60.pdf",
+  "sourceVerified": false
+}

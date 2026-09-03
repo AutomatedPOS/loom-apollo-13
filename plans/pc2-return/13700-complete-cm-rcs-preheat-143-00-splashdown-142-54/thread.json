@@ -1,0 +1,24 @@
+{
+  "guid": "2fe510e8-cd0b-49bf-8d91-6e780f352e80",
+  "name": "plans-pc2-return-13700-complete-cm-rcs-preheat-143-00-splashdown-142-54",
+  "type": "workItem",
+  "plannedStart": "1970-04-17",
+  "plannedEnd": "1970-04-17",
+  "actualStart": "1970-04-17",
+  "actualEnd": "1970-04-17",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "COMPLETE CM RCS PREHEAT 143:00 SPLASHDOWN | - 142:54:56 MNVR TO BURN ATT",
+  "props": [
+    {
+      "name": "get",
+      "value": "137:00:00"
+    },
+    {
+      "name": "page",
+      "value": "15"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "a2c6f9f2-cb74-4e2c-b04e-d6ae71f145d9",
+  "name": "plans-landing-mission-01130-5-gdc-align-i-lt-mcc-1-burn-status-report-i-5-i",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "5 GDC ALIGN i | Lt * MCC-1 BURN STATUS REPORT I 5 I REPORTED TO MSFN",
+  "props": [
+    {
+      "name": "get",
+      "value": "11:30:00"
+    },
+    {
+      "name": "page",
+      "value": "20"
+    }
+  ]
+}

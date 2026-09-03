@@ -1,0 +1,24 @@
+{
+  "guid": "a4c7fb53-e386-4b1a-bbc0-af8bac6e2453",
+  "name": "plans-free-return-07500-4-2-hr-act-cont-checklist-updatf-gi-00-fr-r-sa-a",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "-4 ° 2 HR ACT. CONT. CHECKLIST UPDATF gi:00-] $ —— fr r sa ae PGNCS PTC",
+  "props": [
+    {
+      "name": "get",
+      "value": "75:00:00"
+    },
+    {
+      "name": "page",
+      "value": "10"
+    }
+  ]
+}

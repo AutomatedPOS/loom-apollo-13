@@ -1,0 +1,24 @@
+{
+  "guid": "d451f65f-8dd5-4096-8203-c8b91d315ee0",
+  "name": "plans-free-return-07300-burnt-ts-lullage-2-jet-10-sec",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "BURNT TS LULLAGE: 2 JET 10 SEC",
+  "props": [
+    {
+      "name": "get",
+      "value": "73:00:00"
+    },
+    {
+      "name": "page",
+      "value": "10"
+    }
+  ]
+}

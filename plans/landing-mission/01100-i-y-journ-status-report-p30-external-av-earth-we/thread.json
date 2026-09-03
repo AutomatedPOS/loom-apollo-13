@@ -1,0 +1,24 @@
+{
+  "guid": "68717d14-9278-4344-8008-ccfeab583a9c",
+  "name": "plans-landing-mission-01100-i-y-journ-status-report-p30-external-av-earth-we",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "i “Y Journ status REPORT P30 - EXTERNAL aV EARTH WEATHER | ! a ¢___| ATG",
+  "props": [
+    {
+      "name": "get",
+      "value": "11:00:00"
+    },
+    {
+      "name": "page",
+      "value": "20"
+    }
+  ]
+}

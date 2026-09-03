@@ -1,8 +1,13 @@
 {
-  "guid": "619b19e2-783c-49c1-b73d-837eccce9310",
+  "guid": "eef509c9-1801-4e15-b974-92171dc68f8d",
+  "name": "abort-lifeboat-two-hour-activation",
+  "type": "workItem",
   "plannedStart": "1970-03-31",
   "plannedEnd": "1970-03-31",
+  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e",
   "representedBy": "../../../artifacts/lm-contingency/lm-contingency-checklist-19700331.pdf",
+  "sourceVerified": false,
+  "body": "TOC doc p.1. OCR TOC PDF page 7. Used 57:57-61:00.",
   "props": [
     {
       "name": "alsoScheduledBy",
@@ -10,16 +15,12 @@
     },
     {
       "name": "page",
-      "value": "16"
+      "value": "1"
     },
     {
       "name": "docPage",
-      "value": "16"
+      "value": "1"
     }
   ],
-  "state": "done",
-  "name": "abort-lifeboat-docked-dps",
-  "type": "workItem",
-  "sourceVerified": false,
-  "isPartOf": "a9c92f40-1be9-4d18-9f81-1804298ba89e"
+  "state": "done"
 }

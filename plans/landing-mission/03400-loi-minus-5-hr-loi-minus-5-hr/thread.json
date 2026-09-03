@@ -1,0 +1,24 @@
+{
+  "guid": "8e7624cb-c787-41a1-bc06-7ca52fbe83f7",
+  "name": "plans-landing-mission-03400-loi-minus-5-hr-loi-minus-5-hr",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "LOI MINUS 5 HR LOI MINUS 5 HR",
+  "props": [
+    {
+      "name": "get",
+      "value": "34:00:00"
+    },
+    {
+      "name": "page",
+      "value": "37"
+    }
+  ]
+}

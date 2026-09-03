@@ -1,0 +1,24 @@
+{
+  "guid": "38739c6e-c67d-471e-a83a-a15dbd2c6da5",
+  "name": "plans-free-return-06000-yaw-90-to-next-ptc-att-p30-pad-update-60-53",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "YAW 90° TO NEXT PTC ATT P30 PAD UPDATE (60:53)",
+  "props": [
+    {
+      "name": "get",
+      "value": "60:00:00"
+    },
+    {
+      "name": "page",
+      "value": "9"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "guid": "f41caecc-a38b-424c-98de-c54509767763",
+  "name": "plans-free-return-06300-f-lm-power-down-69-00-f-ny-pc-2-p30-mnvr-pad-upd",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "F LM POWER DOWN 69:00 F ny | PC#2 P30 MNVR PAD UPDATE (63:05) 3 CREW STATUS",
+  "props": [
+    {
+      "name": "get",
+      "value": "63:00:00"
+    },
+    {
+      "name": "page",
+      "value": "9"
+    }
+  ]
+}

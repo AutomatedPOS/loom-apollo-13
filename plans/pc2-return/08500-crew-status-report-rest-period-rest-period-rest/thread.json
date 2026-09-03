@@ -1,0 +1,24 @@
+{
+  "guid": "84748d59-59ca-431f-990b-5e1401bd547e",
+  "name": "plans-pc2-return-08500-crew-status-report-rest-period-rest-period-rest",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "CREW STATUS REPORT REST PERIOD REST PERIOD ; REST (8 HOURS) (3 1/2 Hrs) UM LOH C",
+  "props": [
+    {
+      "name": "get",
+      "value": "85:00:00"
+    },
+    {
+      "name": "page",
+      "value": "11"
+    }
+  ]
+}

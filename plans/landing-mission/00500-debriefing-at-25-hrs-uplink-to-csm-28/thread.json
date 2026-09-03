@@ -1,0 +1,24 @@
+{
+  "guid": "f0593fd5-f42e-4022-ae69-2c1d7bd20bf5",
+  "name": "plans-landing-mission-00500-debriefing-at-25-hrs-uplink-to-csm-28",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "DEBRIEFING AT 25 HRS. UPLINK TO CSM +28",
+  "props": [
+    {
+      "name": "get",
+      "value": "05:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

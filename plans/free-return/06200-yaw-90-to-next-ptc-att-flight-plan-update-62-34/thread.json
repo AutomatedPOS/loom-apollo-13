@@ -1,0 +1,24 @@
+{
+  "guid": "9f5a4c49-6305-444c-85c2-05933c0549e0",
+  "name": "plans-free-return-06200-yaw-90-to-next-ptc-att-flight-plan-update-62-34",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "YAW 90° TO Next PTC ATT FLIGHT PLAN UPDATE (62:34) EAT PERIOD —_EAT PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "62:00:00"
+    },
+    {
+      "name": "page",
+      "value": "9"
+    }
+  ]
+}

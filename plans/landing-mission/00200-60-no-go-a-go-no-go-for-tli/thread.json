@@ -1,0 +1,24 @@
+{
+  "guid": "961aa65b-3642-4637-9530-0dd48fd240dc",
+  "name": "plans-landing-mission-00200-60-no-go-a-go-no-go-for-tli",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "60/NO-GO a. GO/NO-GO FOR TLI",
+  "props": [
+    {
+      "name": "get",
+      "value": "02:00:00"
+    },
+    {
+      "name": "page",
+      "value": "7"
+    }
+  ]
+}

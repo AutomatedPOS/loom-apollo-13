@@ -1,0 +1,24 @@
+{
+  "guid": "08c1bbc0-df11-4096-a1b2-bbf6b89658e0",
+  "name": "plans-pc2-return-09800-crew-status-report-p30-manevuer-pad-voiced-up-ad",
+  "type": "workItem",
+  "plannedStart": "1970-04-15",
+  "plannedEnd": "1970-04-15",
+  "actualStart": "1970-04-15",
+  "actualEnd": "1970-04-15",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "CREW STATUS REPORT P30 MANEVUER PAD VOICED UP ! | ADDITIONAL PROCEDURES Y POWER ",
+  "props": [
+    {
+      "name": "get",
+      "value": "98:00:00"
+    },
+    {
+      "name": "page",
+      "value": "12"
+    }
+  ]
+}

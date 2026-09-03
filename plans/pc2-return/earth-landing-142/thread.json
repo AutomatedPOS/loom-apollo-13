@@ -9,6 +9,11 @@
     {
       "name": "get",
       "value": "142:54:41"
+    },
+    {
+      "name": "get-flightplan",
+      "value": "142:54:56",
+      "remarks": "54-to-splash OCR page 15. Table 2 remains 142:54:41."
     }
   ],
   "plannedStart": "1970-04-17",

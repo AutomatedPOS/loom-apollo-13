@@ -1,0 +1,24 @@
+{
+  "guid": "c77364b6-6bc8-49cd-a154-1f6f4bcd6958",
+  "name": "plans-landing-mission-04100-m-rest-period",
+  "type": "workItem",
+  "plannedStart": "1970-04-13",
+  "plannedEnd": "1970-04-13",
+  "actualStart": "1970-04-13",
+  "actualEnd": "1970-04-13",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "M REST PERIOD",
+  "props": [
+    {
+      "name": "get",
+      "value": "41:00:00"
+    },
+    {
+      "name": "page",
+      "value": "41"
+    }
+  ]
+}

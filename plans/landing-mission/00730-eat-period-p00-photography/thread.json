@@ -1,0 +1,24 @@
+{
+  "guid": "69747fbd-6284-4ac7-b03b-e7520a80cf25",
+  "name": "plans-landing-mission-00730-eat-period-p00-photography",
+  "type": "workItem",
+  "plannedStart": "1970-04-12",
+  "plannedEnd": "1970-04-12",
+  "actualStart": "1970-04-12",
+  "actualEnd": "1970-04-12",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": ": EAT PERIOD p00 PHOTOGRAPHY",
+  "props": [
+    {
+      "name": "get",
+      "value": "07:30:00"
+    },
+    {
+      "name": "page",
+      "value": "14"
+    }
+  ]
+}

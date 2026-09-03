@@ -1,0 +1,24 @@
+{
+  "guid": "3f9d37c2-6b52-41d8-ae35-26cd0e1aa260",
+  "name": "plans-free-return-05900-update-pc-2-dps-uplink-to-lm",
+  "type": "workItem",
+  "plannedStart": "1970-04-14",
+  "plannedEnd": "1970-04-14",
+  "actualStart": "1970-04-14",
+  "actualEnd": "1970-04-14",
+  "state": "done",
+  "isPartOf": "48c77487-ddfc-4221-af1a-02e7047b60cc",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "UPDATE PC+2 DPS UPLINK TO LM",
+  "props": [
+    {
+      "name": "get",
+      "value": "59:00:00"
+    },
+    {
+      "name": "page",
+      "value": "8"
+    }
+  ]
+}

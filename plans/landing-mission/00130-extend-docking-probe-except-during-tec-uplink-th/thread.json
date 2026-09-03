@@ -1,0 +1,24 @@
+{
+  "guid": "750bac12-3de6-4187-8bd2-4a8f097f2dab",
+  "name": "plans-landing-mission-00130-extend-docking-probe-except-during-tec-uplink-th",
+  "type": "workItem",
+  "plannedStart": "1970-04-11",
+  "plannedEnd": "1970-04-11",
+  "actualStart": "1970-04-11",
+  "actualEnd": "1970-04-11",
+  "state": "done",
+  "isPartOf": "ed501357-0cbf-4c6e-bcc1-dffa476496e0",
+  "representedBy": "../../../artifacts/flight-plan-00-60/flight-plan-00-60.pdf",
+  "sourceVerified": false,
+  "body": "EXTEND DOCKING PROBE EXCEPT DURING TEC, UPLINK THE STATE UPLINK TO CM ; VECTOR T",
+  "props": [
+    {
+      "name": "get",
+      "value": "01:30:00"
+    },
+    {
+      "name": "page",
+      "value": "4"
+    }
+  ]
+}

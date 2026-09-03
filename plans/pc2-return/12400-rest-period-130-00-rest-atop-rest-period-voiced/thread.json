@@ -1,0 +1,24 @@
+{
+  "guid": "4278518d-ac71-4a56-82df-bd69f949a960",
+  "name": "plans-pc2-return-12400-rest-period-130-00-rest-atop-rest-period-voiced",
+  "type": "workItem",
+  "plannedStart": "1970-04-16",
+  "plannedEnd": "1970-04-16",
+  "actualStart": "1970-04-16",
+  "actualEnd": "1970-04-16",
+  "state": "done",
+  "isPartOf": "73a6c5a5-96a8-4367-a4fe-7dc15ff4659b",
+  "representedBy": "../../../artifacts/flight-plan-54-splash/flight-plan-54-to-splash.pdf",
+  "sourceVerified": false,
+  "body": "REST PERIOD 130:00 REST | atop REST PERIOD VOICED UP PHOTO DATA FOR POST",
+  "props": [
+    {
+      "name": "get",
+      "value": "124:00:00"
+    },
+    {
+      "name": "page",
+      "value": "14"
+    }
+  ]
+}
